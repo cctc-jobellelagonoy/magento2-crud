@@ -4,7 +4,7 @@
 You will need Magento store, PHP, Composer and Node.js. For MacOS I recommend installing them with [Homebrew](https://brew.sh/). For Windows see instructions for [PHP](https://windows.php.net/download/), [Composer](https://getcomposer.org/doc/00-intro.md#installation-windows) and [Node](https://nodejs.org/en/download/).
 ## Installation
 
-1. Get your free Pusher API Keys at [https://pusher.com](https://pusher.com) and [https://platform.openai.com](https://platform.openai.com/account/api-keys)
+1. Run your Magento store server.
 2. Clone this repo
    ```sh
    git clone https://github.com/nymeria-1/magento2-crud.git
